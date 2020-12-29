@@ -18,8 +18,6 @@ has_ownership = [account_ownership_required, login_required]
 
 
 
-
-
 @login_required
 def hello_world(request):
 
